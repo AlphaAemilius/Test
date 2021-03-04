@@ -1,0 +1,16 @@
+/home/aemilius/Documents/HelloME/bin/Debug/net5.0/HelloME
+/home/aemilius/Documents/HelloME/bin/Debug/net5.0/HelloME.deps.json
+/home/aemilius/Documents/HelloME/bin/Debug/net5.0/HelloME.runtimeconfig.json
+/home/aemilius/Documents/HelloME/bin/Debug/net5.0/HelloME.runtimeconfig.dev.json
+/home/aemilius/Documents/HelloME/bin/Debug/net5.0/HelloME.dll
+/home/aemilius/Documents/HelloME/bin/Debug/net5.0/ref/HelloME.dll
+/home/aemilius/Documents/HelloME/bin/Debug/net5.0/HelloME.pdb
+/home/aemilius/Documents/HelloME/obj/Debug/net5.0/HelloME.csprojAssemblyReference.cache
+/home/aemilius/Documents/HelloME/obj/Debug/net5.0/HelloME.GeneratedMSBuildEditorConfig.editorconfig
+/home/aemilius/Documents/HelloME/obj/Debug/net5.0/HelloME.AssemblyInfoInputs.cache
+/home/aemilius/Documents/HelloME/obj/Debug/net5.0/HelloME.AssemblyInfo.cs
+/home/aemilius/Documents/HelloME/obj/Debug/net5.0/HelloME.csproj.CoreCompileInputs.cache
+/home/aemilius/Documents/HelloME/obj/Debug/net5.0/HelloME.dll
+/home/aemilius/Documents/HelloME/obj/Debug/net5.0/ref/HelloME.dll
+/home/aemilius/Documents/HelloME/obj/Debug/net5.0/HelloME.pdb
+/home/aemilius/Documents/HelloME/obj/Debug/net5.0/HelloME.genruntimeconfig.cache
